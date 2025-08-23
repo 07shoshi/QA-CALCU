@@ -22,6 +22,6 @@ class Usuario implements IUsuario {
     }
 
     public function setPreferencias(array $prefs): void {
-        $this->preferencias = $prefs;
-    }
+        $this->preferencias = $prefs;
+    }
 }
