@@ -1,0 +1,2 @@
+# QA-CALCU
+calculadora + - *
