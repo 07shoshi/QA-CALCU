@@ -1,3 +1,5 @@
+
+#este código ha sido generado por Lucas Josué Salomón Silvestre Mendoza
 <?php
 namespace App\Entities\Classes;
 
