@@ -1,3 +1,4 @@
+// autor: Allan Emanuel Mendez Mendez
 <?php
 namespace App\Entities\Classes;
 
@@ -25,3 +26,4 @@ class Usuario implements IUsuario {
         $this->preferencias = $prefs;
     }
 }
+
