@@ -1,4 +1,7 @@
 <?php
+/*
+autor Alyan Abdel Ramírez Pérez contacto aramirezp20@miumg.edu.gt 
+*/
 namespace App\Entities\Interfaces;
 
 interface IHistorial {
